@@ -13,7 +13,7 @@ In this notebook, I am going to explore more about Crime in Chicago and try to a
 In this project, I analyzed large dataset containing 600K+ rows and 23 columns which you can get it [here](https://www.kaggle.com/currie32/crimes-in-chicago/data). And created pleasing visualizations considering various features.
 
 ### Dependencies
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ### How to get started?
 - First clone the repository
